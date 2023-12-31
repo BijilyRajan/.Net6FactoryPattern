@@ -1,0 +1,12 @@
+C:\Bijily\Projects\.Net6FactoryPattern\EmployeeFactory\EmployeeServiceAPI\bin\Debug\net6.0\EmployeeServiceAPI.deps.json
+C:\Bijily\Projects\.Net6FactoryPattern\EmployeeFactory\EmployeeServiceAPI\bin\Debug\net6.0\EmployeeServiceAPI.dll
+C:\Bijily\Projects\.Net6FactoryPattern\EmployeeFactory\EmployeeServiceAPI\bin\Debug\net6.0\EmployeeServiceAPI.pdb
+C:\Bijily\Projects\.Net6FactoryPattern\EmployeeFactory\EmployeeServiceAPI\obj\Debug\net6.0\EmployeeServiceAPI.csproj.AssemblyReference.cache
+C:\Bijily\Projects\.Net6FactoryPattern\EmployeeFactory\EmployeeServiceAPI\obj\Debug\net6.0\EmployeeServiceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bijily\Projects\.Net6FactoryPattern\EmployeeFactory\EmployeeServiceAPI\obj\Debug\net6.0\EmployeeServiceAPI.AssemblyInfoInputs.cache
+C:\Bijily\Projects\.Net6FactoryPattern\EmployeeFactory\EmployeeServiceAPI\obj\Debug\net6.0\EmployeeServiceAPI.AssemblyInfo.cs
+C:\Bijily\Projects\.Net6FactoryPattern\EmployeeFactory\EmployeeServiceAPI\obj\Debug\net6.0\EmployeeServiceAPI.csproj.CoreCompileInputs.cache
+C:\Bijily\Projects\.Net6FactoryPattern\EmployeeFactory\EmployeeServiceAPI\obj\Debug\net6.0\EmployeeServiceAPI.dll
+C:\Bijily\Projects\.Net6FactoryPattern\EmployeeFactory\EmployeeServiceAPI\obj\Debug\net6.0\refint\EmployeeServiceAPI.dll
+C:\Bijily\Projects\.Net6FactoryPattern\EmployeeFactory\EmployeeServiceAPI\obj\Debug\net6.0\EmployeeServiceAPI.pdb
+C:\Bijily\Projects\.Net6FactoryPattern\EmployeeFactory\EmployeeServiceAPI\obj\Debug\net6.0\ref\EmployeeServiceAPI.dll
